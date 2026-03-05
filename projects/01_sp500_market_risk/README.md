@@ -27,3 +27,6 @@ This project analyzes market risk and volatility dynamics of the S&P 500 using P
 Full report (HTML version):
 
 [Open Report](../../docs/sp500_market_risk_analysis.html)
+Notebook version:
+
+[Open Notebook in nbviewer](https://nbviewer.org/github/carlakogoj/finance-data-portfolio/blob/main/projects/01_sp500_market_risk/sp500_market_risk_analysis.ipynb)
