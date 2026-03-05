@@ -22,3 +22,8 @@ This project analyzes market risk and volatility dynamics of the S&P 500 using P
 - Matplotlib
 - yfinance
 - arch (GARCH)
+## View the Report
+
+Full report (HTML version):
+
+[Open Report](../../docs/sp500_market_risk_analysis.html)
